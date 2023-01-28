@@ -18,7 +18,7 @@
     <property name="user.country" value="CA"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Eclipse Foundation\jdk-8.0.302.8-hotspot\jre\bin"/>
-    <property name="sun.java.command" value="C:\Users\ahmaa\AppData\Local\Temp\surefire5892282287451933295\surefirebooter1748730550357400976.jar C:\Users\ahmaa\AppData\Local\Temp\surefire5892282287451933295 2023-01-27T20-29-28_291-jvmRun1 surefire4261789351026294201tmp surefire_03684522933357017647tmp"/>
+    <property name="sun.java.command" value="C:\Users\ahmaa\AppData\Local\Temp\surefire5512262148148677962\surefirebooter2404659019349573610.jar C:\Users\ahmaa\AppData\Local\Temp\surefire5512262148148677962 2023-01-27T21-28-00_126-jvmRun1 surefire7672457667723797378tmp surefire_01147899517578862700tmp"/>
     <property name="surefire.test.class.path" value="C:\Ontario Tech ~ Third Year\Software Quality\SOFE3980U-Lab1-D2\target\test-classes;C:\Ontario Tech ~ Third Year\Software Quality\SOFE3980U-Lab1-D2\target\classes;C:\Users\ahmaa\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\ahmaa\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\ahmaa\.m2\repository\joda-time\joda-time\2.9.2\joda-time-2.9.2.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\ahmaa"/>
@@ -31,7 +31,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\ahmaa\AppData\Local\Temp\surefire5892282287451933295\surefirebooter1748730550357400976.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\ahmaa\AppData\Local\Temp\surefire5512262148148677962\surefirebooter2404659019349573610.jar"/>
     <property name="sun.boot.class.path" value="C:\Program Files\Eclipse Foundation\jdk-8.0.302.8-hotspot\jre\lib\resources.jar;C:\Program Files\Eclipse Foundation\jdk-8.0.302.8-hotspot\jre\lib\rt.jar;C:\Program Files\Eclipse Foundation\jdk-8.0.302.8-hotspot\jre\lib\sunrsasign.jar;C:\Program Files\Eclipse Foundation\jdk-8.0.302.8-hotspot\jre\lib\jsse.jar;C:\Program Files\Eclipse Foundation\jdk-8.0.302.8-hotspot\jre\lib\jce.jar;C:\Program Files\Eclipse Foundation\jdk-8.0.302.8-hotspot\jre\lib\charsets.jar;C:\Program Files\Eclipse Foundation\jdk-8.0.302.8-hotspot\jre\lib\jfr.jar;C:\Program Files\Eclipse Foundation\jdk-8.0.302.8-hotspot\jre\classes"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
@@ -68,7 +68,7 @@
   <testcase name="or" classname="com.ontariotechu.sofe3980U.BinaryTest" time="0"/>
   <testcase name="add" classname="com.ontariotechu.sofe3980U.BinaryTest" time="0"/>
   <testcase name="and" classname="com.ontariotechu.sofe3980U.BinaryTest" time="0"/>
-  <testcase name="or2" classname="com.ontariotechu.sofe3980U.BinaryTest" time="0.001"/>
+  <testcase name="or2" classname="com.ontariotechu.sofe3980U.BinaryTest" time="0"/>
   <testcase name="or3" classname="com.ontariotechu.sofe3980U.BinaryTest" time="0"/>
   <testcase name="or4" classname="com.ontariotechu.sofe3980U.BinaryTest" time="0"/>
   <testcase name="or5" classname="com.ontariotechu.sofe3980U.BinaryTest" time="0"/>

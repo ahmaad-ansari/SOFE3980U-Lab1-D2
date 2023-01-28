@@ -32,21 +32,21 @@
 com.ontariotechu.sofe3980U
 'C:/Ontario Tech ~ Third Year/Software Quality/SOFE3980U-Lab1-D2/src/test/java/com/ontariotechu/sofe3980U/AppTest.java'
 'C:/Ontario Tech ~ Third Year/Software Quality/SOFE3980U-Lab1-D2/src/test/java/com/ontariotechu/sofe3980U/BinaryTest.java'
-C:\Ontario Tech ~ Third Year\Software Quality\SOFE3980U-Lab1-D2\target\classes = 1674869368077
-C:\Ontario Tech ~ Third Year\Software Quality\SOFE3980U-Lab1-D2\target\test-classes = 1674869368179
+C:\Ontario Tech ~ Third Year\Software Quality\SOFE3980U-Lab1-D2\target\classes = 1674872879895
+C:\Ontario Tech ~ Third Year\Software Quality\SOFE3980U-Lab1-D2\target\test-classes = 1674872879998
 C:\Users\ahmaa\.m2\repository\junit\junit\4.11\junit-4.11.jar = 1674075445495
 C:\Users\ahmaa\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar = 1674075445522
 C:\Users\ahmaa\.m2\repository\joda-time\joda-time\2.9.2\joda-time-2.9.2.jar = 1674076638463
 C:\Ontario Tech ~ Third Year\Software Quality\SOFE3980U-Lab1-D2\src\test\java = 1674864572372
-C:\Ontario Tech ~ Third Year\Software Quality\SOFE3980U-Lab1-D2\target\generated-test-sources\test-annotations = 1674869368117
-C:\Ontario Tech ~ Third Year\Software Quality\SOFE3980U-Lab1-D2\target\site\testapidocs\allclasses-frame.html = 1674869372703
-C:\Ontario Tech ~ Third Year\Software Quality\SOFE3980U-Lab1-D2\target\site\testapidocs\allclasses-noframe.html = 1674869372704
-C:\Ontario Tech ~ Third Year\Software Quality\SOFE3980U-Lab1-D2\target\site\testapidocs\constant-values.html = 1674869372655
-C:\Ontario Tech ~ Third Year\Software Quality\SOFE3980U-Lab1-D2\target\site\testapidocs\deprecated-list.html = 1674869372701
-C:\Ontario Tech ~ Third Year\Software Quality\SOFE3980U-Lab1-D2\target\site\testapidocs\help-doc.html = 1674869372710
-C:\Ontario Tech ~ Third Year\Software Quality\SOFE3980U-Lab1-D2\target\site\testapidocs\index-all.html = 1674869372697
-C:\Ontario Tech ~ Third Year\Software Quality\SOFE3980U-Lab1-D2\target\site\testapidocs\index.html = 1674869372706
-C:\Ontario Tech ~ Third Year\Software Quality\SOFE3980U-Lab1-D2\target\site\testapidocs\overview-tree.html = 1674869372686
-C:\Ontario Tech ~ Third Year\Software Quality\SOFE3980U-Lab1-D2\target\site\testapidocs\package-list = 1674869372636
-C:\Ontario Tech ~ Third Year\Software Quality\SOFE3980U-Lab1-D2\target\site\testapidocs\script.js = 1674869372714
-C:\Ontario Tech ~ Third Year\Software Quality\SOFE3980U-Lab1-D2\target\site\testapidocs\stylesheet.css = 1674869372713
+C:\Ontario Tech ~ Third Year\Software Quality\SOFE3980U-Lab1-D2\target\generated-test-sources\test-annotations = 1674872879936
+C:\Ontario Tech ~ Third Year\Software Quality\SOFE3980U-Lab1-D2\target\site\testapidocs\allclasses-frame.html = 1674872885050
+C:\Ontario Tech ~ Third Year\Software Quality\SOFE3980U-Lab1-D2\target\site\testapidocs\allclasses-noframe.html = 1674872885052
+C:\Ontario Tech ~ Third Year\Software Quality\SOFE3980U-Lab1-D2\target\site\testapidocs\constant-values.html = 1674872884978
+C:\Ontario Tech ~ Third Year\Software Quality\SOFE3980U-Lab1-D2\target\site\testapidocs\deprecated-list.html = 1674872885047
+C:\Ontario Tech ~ Third Year\Software Quality\SOFE3980U-Lab1-D2\target\site\testapidocs\help-doc.html = 1674872885058
+C:\Ontario Tech ~ Third Year\Software Quality\SOFE3980U-Lab1-D2\target\site\testapidocs\index-all.html = 1674872885041
+C:\Ontario Tech ~ Third Year\Software Quality\SOFE3980U-Lab1-D2\target\site\testapidocs\index.html = 1674872885054
+C:\Ontario Tech ~ Third Year\Software Quality\SOFE3980U-Lab1-D2\target\site\testapidocs\overview-tree.html = 1674872885026
+C:\Ontario Tech ~ Third Year\Software Quality\SOFE3980U-Lab1-D2\target\site\testapidocs\package-list = 1674872884955
+C:\Ontario Tech ~ Third Year\Software Quality\SOFE3980U-Lab1-D2\target\site\testapidocs\script.js = 1674872885065
+C:\Ontario Tech ~ Third Year\Software Quality\SOFE3980U-Lab1-D2\target\site\testapidocs\stylesheet.css = 1674872885063
