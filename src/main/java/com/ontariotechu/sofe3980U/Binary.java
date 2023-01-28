@@ -80,8 +80,8 @@ public class Binary
 	/**
 	* Conduct bitwise OR on two binary variables. For more information, visit <a href="https://www.geeksforgeeks.org/bitwise-or-of-n-binary-strings/?ref=lbp"> Bitwise-OR-Binary-Numbers </a>.
 	*
-	* @param num1 The first addend object
-	* @param num2 The second addend object
+	* @param num1 The first object to be disjuncted
+	* @param num2 The second object to be disjuncted
 	* @return A binary variable with a value of <i>num1 OR num2</i>.
 	*/
 	public static Binary or(Binary num1,Binary num2)
@@ -100,8 +100,8 @@ public class Binary
 	/**
 	* Conduct bitwise AND on two binary variables. For more information, visit <a href="https://www.geeksforgeeks.org/bitwise-and-of-n-binary-strings/?ref=lbp"> Bitwise-AND-Binary-Numbers </a>.
 	*
-	* @param num1 The first addend object
-	* @param num2 The second addend object
+	* @param num1 The first object to be conjuncted
+	* @param num2 The second object to be conjuncted
 	* @return A binary variable with a value of <i>num1 AND num2</i>.
 	*/
 	public static Binary and(Binary num1,Binary num2)
@@ -120,8 +120,8 @@ public class Binary
 	/**
 	* Conduct bitwise multiplication on two binary variables. For more information, visit <a href="https://www.cuemath.com/numbers/binary-multiplication/"> Multiply-Binary-Numbers </a>.
 	*
-	* @param num1 The first addend object
-	* @param num2 The second addend object
+	* @param num1 The multiplicand object
+	* @param num2 The multiplier object
 	* @return A binary variable with a value of <i>num1 * num2</i>.
 	*/
 	public static Binary multiply(Binary num1,Binary num2)

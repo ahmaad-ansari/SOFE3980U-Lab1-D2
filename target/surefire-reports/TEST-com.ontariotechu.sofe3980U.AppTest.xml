@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.ontariotechu.sofe3980U.AppTest" time="0.024" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.ontariotechu.sofe3980U.AppTest" time="0.026" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="windows"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -18,7 +18,7 @@
     <property name="user.country" value="CA"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Eclipse Foundation\jdk-8.0.302.8-hotspot\jre\bin"/>
-    <property name="sun.java.command" value="C:\Users\ahmaa\AppData\Local\Temp\surefire8008232640533270007\surefirebooter7212035359141965278.jar C:\Users\ahmaa\AppData\Local\Temp\surefire8008232640533270007 2023-01-27T20-02-08_238-jvmRun1 surefire1807219963007524647tmp surefire_06937762652282039475tmp"/>
+    <property name="sun.java.command" value="C:\Users\ahmaa\AppData\Local\Temp\surefire5892282287451933295\surefirebooter1748730550357400976.jar C:\Users\ahmaa\AppData\Local\Temp\surefire5892282287451933295 2023-01-27T20-29-28_291-jvmRun1 surefire4261789351026294201tmp surefire_03684522933357017647tmp"/>
     <property name="surefire.test.class.path" value="C:\Ontario Tech ~ Third Year\Software Quality\SOFE3980U-Lab1-D2\target\test-classes;C:\Ontario Tech ~ Third Year\Software Quality\SOFE3980U-Lab1-D2\target\classes;C:\Users\ahmaa\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\ahmaa\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\ahmaa\.m2\repository\joda-time\joda-time\2.9.2\joda-time-2.9.2.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\ahmaa"/>
@@ -31,7 +31,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\ahmaa\AppData\Local\Temp\surefire8008232640533270007\surefirebooter7212035359141965278.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\ahmaa\AppData\Local\Temp\surefire5892282287451933295\surefirebooter1748730550357400976.jar"/>
     <property name="sun.boot.class.path" value="C:\Program Files\Eclipse Foundation\jdk-8.0.302.8-hotspot\jre\lib\resources.jar;C:\Program Files\Eclipse Foundation\jdk-8.0.302.8-hotspot\jre\lib\rt.jar;C:\Program Files\Eclipse Foundation\jdk-8.0.302.8-hotspot\jre\lib\sunrsasign.jar;C:\Program Files\Eclipse Foundation\jdk-8.0.302.8-hotspot\jre\lib\jsse.jar;C:\Program Files\Eclipse Foundation\jdk-8.0.302.8-hotspot\jre\lib\jce.jar;C:\Program Files\Eclipse Foundation\jdk-8.0.302.8-hotspot\jre\lib\charsets.jar;C:\Program Files\Eclipse Foundation\jdk-8.0.302.8-hotspot\jre\lib\jfr.jar;C:\Program Files\Eclipse Foundation\jdk-8.0.302.8-hotspot\jre\classes"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
@@ -60,5 +60,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="52.0"/>
   </properties>
-  <testcase name="shouldAnswerWithTrue" classname="com.ontariotechu.sofe3980U.AppTest" time="0.002"/>
+  <testcase name="shouldAnswerWithTrue" classname="com.ontariotechu.sofe3980U.AppTest" time="0.001"/>
 </testsuite>

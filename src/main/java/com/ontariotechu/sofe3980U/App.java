@@ -18,7 +18,6 @@ public class App
     {
 		LocalTime currentTime = new LocalTime();
 		System.out.println("\nThe current local time is: " + currentTime);
-    
 
 		Binary binary1=new Binary("00010001000");
         System.out.println( "- First binary number is "+binary1.getValue());
